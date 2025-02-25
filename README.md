@@ -1,4 +1,8 @@
-# I'm Dhimas Indra Maulana, a Junior Software Enginer. Hello World! 👋
+# Hello World!👋🏻<br> I'm Dhimas Indra Maulana, a Junior Software Enginer.
+
+<div align="center">
+  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1AF761&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
@@ -10,12 +14,13 @@
 
 ```javascript
 const aboutMe = {
-  name: "Your Name",
-  location: "Your City, Country",
-  education: "Your Degree / University",
-  fields: ["Web Development", "Mobile Apps", "DevOps", "UI/UX"],
-  currentFocus: "Building scalable applications with modern technologies",
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+  name: "Dhimas Indra Maulana",
+  location: "Ponorogo, Indonesia🦚❤️🤍",
+  education: "Student / SMKN 1 Jenangan Ponorogo",
+  fields: ["Web Development", "Designer", "WordPress", "Cyber Scurity", "UI/UX"],
+  currentFocus: "Enhancing my skills in frontend and backend development to build dynamic and responsive web applications.",
+  funFact: "I love exploring cybersecurity! Did you know that 'password' and '123456' are still among the most commonly used (and weakest) passwords?",
+  funFact2: "In cybersecurity, the 'Zero Trust' model means 'Never trust, always verify'—because even insiders can be threats!"
 };
 ```
 
