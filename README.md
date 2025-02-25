@@ -1,10 +1,6 @@
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana, a Junior Software Enginer.
 
 <div align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1AF761&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
 
   <img src="https://raw.githubusercontent.com/Username/Username/main/assets/wave.gif" width="70">
@@ -30,17 +26,6 @@ const aboutMe = {
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yourusername/another-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-cool-project&theme=tokyonight" />
-  </a>
-</div>
 
 ## 💻 Tech Stack
 
