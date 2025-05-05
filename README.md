@@ -1,8 +1,16 @@
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana, a Junior Software Enginer.
 
-<div align="center">
-  <img src="https://github.com/YOkSipMksi/YOkSipMksi/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1AF761&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
