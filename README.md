@@ -59,14 +59,6 @@ const aboutMe = {
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7" />
 </p>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Scalable Web Application with React and Node.js](https://yourblog.com/post1)
-- [Optimizing MongoDB Queries for Performance](https://yourblog.com/post2)
-- [The Future of Web Development: Trends to Watch](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🐍 Contribution Graph
 
 <div align="center">
