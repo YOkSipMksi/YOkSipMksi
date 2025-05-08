@@ -1,5 +1,7 @@
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana, a Junior Software Enginer.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoksipmksi)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1AF761&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
 
