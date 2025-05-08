@@ -15,8 +15,7 @@ const aboutMe = {
   education: "Student / SMKN 1 Jenangan Ponorogo",
   fields: ["Web Development", "Designer", "WordPress", "Cyber Scurity", "UI/UX"],
   currentFocus: "Enhancing my skills in frontend and backend development to build dynamic and responsive web applications.",
-  funFact: "I love exploring cybersecurity! Did you know that 'password' and '123456' are still among the most commonly used (and weakest) passwords?",
-  funFact2: "In cybersecurity, the 'Zero Trust' model means 'Never trust, always verify'—because even insiders can be threats!"
+  funFact: "Coding is fun. But coding with a DevSecOps twist? Even more exciting!"
 };
 ```
 
