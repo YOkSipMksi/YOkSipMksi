@@ -1,5 +1,5 @@
-<div align="center">
-  viewa : <img src="https://profile-counter.glitch.me/yoksipmksi/count.svg?"  />
+<div>
+  views : <img src="https://profile-counter.glitch.me/yoksipmksi/count.svg?"  />
 </div>
 
 ###
