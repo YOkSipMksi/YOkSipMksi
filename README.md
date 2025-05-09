@@ -1,3 +1,9 @@
+<div align="center">
+  viewa : <img src="https://profile-counter.glitch.me/yoksipmksi/count.svg?"  />
+</div>
+
+###
+
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana, a Junior Software Enginer.
 
 <div align="center">
