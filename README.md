@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-size: 24px; font-weight: bold;">👀 Views</span>
+  <span style="font-size: 100px; font-weight: bold;">👀 Views</span>
   <img src="https://profile-counter.glitch.me/yoksipmksi/count.svg" alt="View Count" />
 </div>
 
