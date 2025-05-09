@@ -1,7 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2 style="font-weight: bold;">👀 Views<img src="https://profile-counter.glitch.me/yoksipmksi/count.svg" alt="View Count" /></h2>
-  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOkSipMksi/count.svg?"  />
 </div>
+
+###
 
 # Hello World!👋🏻<br> I'm Dhimas Indra Maulana, a Junior Software Enginer.
 
