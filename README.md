@@ -1,8 +1,4 @@
-<p align="center">
-  <strong>👀 Profile Views</strong><br>
-  <img src="https://profile-counter.glitch.me/yoksipmksi/count.svg" alt="Views" />
-</p>
-
+**Views:** ![Views](https://profile-counter.glitch.me/yoksipmksi/count.svg)
 
 ###
 
