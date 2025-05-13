@@ -72,18 +72,16 @@ const aboutMe = {
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
   
   <p>Thanks for visiting! Hope to collaborate soon! 😄</p>
-  
-  ![Wave](https://raw.githubusercontent.com/Username/Username/main/assets/bottom_wave.svg)
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoksipmksi/yoksipmksi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoksipmksi/yoksipmksi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<img src="https://raw.githubusercontent.com/YOkSipMksi/YOkSipMksi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yoksipmksi/yoksipmksi/output/snake.svg" alt="Snake animation" />
 
 ###
